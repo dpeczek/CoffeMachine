@@ -1,5 +1,5 @@
 package coffee;
 
-public class Cappuccino {
+public class Cappuccino extends Coffee {
 
 }
