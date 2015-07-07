@@ -1,7 +1,9 @@
 package coffee.interfaces;
 
-public interface Commandable {
+import coffee.Coffee;
 
-	public void buyCoffee(double cost, Coffee coffee);
+public interface Commandable{
+
+	public void execute();
 	
 }
